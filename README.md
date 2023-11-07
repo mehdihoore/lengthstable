@@ -6,8 +6,8 @@
 ## 2-فایل newale.lsp
 ## لیسپی برای محاسبه سرجمع میلگردهای مش 
 
-
 <html>
+
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 
@@ -20,22 +20,25 @@
 <div class=WordSection1>
 
 <p class=MsoListParagraphCxSpFirst dir=RTL style='margin-top:0cm;margin-right:
-36.0pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
-direction:rtl;unicode-bidi:embed'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>مش را
-در محدوده مورد نظر بکشید</span></p>
+36.0pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-30.0pt;
+direction:rtl;unicode-bidi:embed'><span style='font-family:Symbol'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>مش
+را در محدوده مورد نظر بکشید</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
 36.0pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
-direction:rtl;unicode-bidi:embed'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>لیسپ را
-لود کنید</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>.</span></p>
+direction:rtl;unicode-bidi:embed'><span style='font-family:Symbol'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>لیسپ
+را لود کنید</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>.</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
 36.0pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
-direction:rtl;unicode-bidi:embed'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>با زدن
-دستور</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span> SBE </span><span
+direction:rtl;unicode-bidi:embed'><span style='font-family:Symbol'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>با
+زدن دستور</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span> SBE </span><span
 lang=FA style='font-family:"B Yagut"'>میتوانید لیسپ را فعال کنید و مراحل اجرای
 آن به این ترتیب آغاز می شود</span><span dir=LTR></span><span dir=LTR><span
 dir=LTR></span>:</span></p>
@@ -134,38 +137,38 @@ direction:rtl;unicode-bidi:embed'>11-<span style='font:7.0pt "Times New Roman"'>
 شده به این صورت است: </span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 اول شماره ابژه</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>
 (pos).</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'><span dir=RTL></span>2)<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span><span dir=RTL></span><span
-dir=LTR> </span><span lang=FA style='font-family:"B Yagut"'>ستون دوم نمره
-آرماتور را نشان می‌دهد</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>
-(dia). </span></p>
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'><span dir=RTL></span>B.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+dir=RTL></span><span dir=LTR> </span><span lang=FA style='font-family:"B Yagut"'>ستون
+دوم نمره آرماتور را نشان می‌دهد</span><span dir=LTR></span><span dir=LTR><span
+dir=LTR></span> (dia). </span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>C.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 سوم طول خم آرماتور را نشان می‌دهد که بر اساس 12</span><span dir=LTR>db </span><span
 lang=FA style='font-family:"B Yagut"'>محاسبه شده است</span><span dir=LTR></span><span
 dir=LTR><span dir=LTR></span> (length kham).</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>4)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>D.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 چهارم طول خط را نشان می‌دهد</span><span dir=LTR></span><span dir=LTR><span
 dir=LTR></span> ( length). </span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>5)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>E.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 پنجم طول + اورلپ محاسبه شده را نشان می‌دهد که به صورت 55</span><span dir=LTR>d </span><span
 dir=RTL></span><span style='font-family:"B Yagut"'><span dir=RTL></span> <span
@@ -174,30 +177,30 @@ lang=FA>و با الگوریتم خاصی جهت محاسبه اورلپ میل�
 (length + overlaps).</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>6)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>F.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 ششم طول آخرین میلگرد کوچکتر از 12 متر را نشان می‌دهد</span><span dir=LTR></span><span
 dir=LTR><span dir=LTR></span>(remine length). </span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'><span dir=RTL></span>7)<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span><span dir=RTL></span><span
-dir=LTR>  </span><span lang=FA style='font-family:"B Yagut"'>ستون هفتم تعداد میلگردها
-با طول 12 متر</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>
-(number of 12m).</span></p>
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'><span dir=RTL></span>G.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+dir=RTL></span><span dir=LTR>  </span><span lang=FA style='font-family:"B Yagut"'>ستون
+هفتم تعداد میلگردها با طول 12 متر</span><span dir=LTR></span><span dir=LTR><span
+dir=LTR></span> (number of 12m).</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>8)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>H.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 هشتم طول اورلپ</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>
 (Overlap length).</span></p>
 
 <p class=MsoListParagraphCxSpMiddle dir=RTL style='margin-top:0cm;margin-right:
-85.15pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-11.45pt;
-direction:rtl;unicode-bidi:embed'>9)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+91.7pt;margin-bottom:8.0pt;margin-left:0cm;text-align:right;text-indent:-18.0pt;
+direction:rtl;unicode-bidi:embed'>I.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span><span dir=RTL></span><span lang=FA style='font-family:"B Yagut"'>ستون
 نهم طول کل</span><span dir=LTR></span><span dir=LTR><span dir=LTR></span>
 (Total length&quot;). </span></p>
@@ -218,6 +221,7 @@ dir=LTR></span><span dir=LTR><span dir=LTR></span>.</span></p>
 </body>
 
 </html>
+
 
 
 
